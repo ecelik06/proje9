@@ -1,0 +1,65 @@
+.bg-gray{
+background-color: rgb(194, 194, 194);
+text-align: center;
+height: 100px;
+
+}
+.card2{
+    width:100%
+}
+
+.btn{
+    border-radius: 25px;
+    padding: 10px 10px;
+    color: black;
+    
+    
+}
+p{
+    text-align: center;
+}
+img{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-top: 5%;
+      
+}
+.gradient
+{
+    background: white;
+
+}
+.container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.card3{
+    margin-top: 3%;
+    height:150px;
+width: 30%;
+
+background-color: aqua;
+text-align: center;
+float:left ;
+}
+.card4{
+    width: 20%;
+    height:150px;
+    float:left ;
+    background-color: rgb(13, 131, 167);
+    text-align: center;
+    margin-top: 3%;
+}
+.card5{
+    width: 49%;
+    height:150px;
+    background-color: aquamarine;
+    text-align: center;
+    float:left ;
+    margin-top: 3%;
+}
